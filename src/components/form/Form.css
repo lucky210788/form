@@ -1,0 +1,15 @@
+.helper-text {
+    margin: 0;
+    font-size: 14px;
+    text-align: center;
+    color: #ed071e;
+}
+
+.MuiGrid-root {
+    text-align: left;
+}
+
+.textarea-style {
+    width: 100%;
+    resize: none;
+}
