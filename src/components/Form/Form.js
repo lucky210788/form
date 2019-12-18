@@ -11,8 +11,8 @@ import clsx from 'clsx';
 import Checkbox from '@material-ui/core/Checkbox';
 import TextareaAutosize from '@material-ui/core/TextareaAutosize';
 import Grid from '@material-ui/core/Grid';
-import FileInput from '../fileInput/FileInput';
-import Select from "../select/Select";
+import FileInput from './FileInput/FileInput';
+import Select from "./Select/Select";
 import {ToastContainer, toast} from "react-toastify";
 
 import {makeStyles} from '@material-ui/core/styles';
